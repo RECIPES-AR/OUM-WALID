@@ -1,0 +1,16 @@
+[
+  {
+    "id": "app_morocco",
+    "country_name": "المملكة المغربية",
+    "flag_emoji": "🇲🇦",
+    "app_title": "المطبخ المغربي الأصيل",
+    "chef_title": "نخبة طهاة الطاجين والكسكس والحلويات",
+    "description": "أضخم موسوعة لوصفات الطبخ المغربي التراثي والعصري: طواجن، بسطيلة، حريرة، شباكية، وحلويات اللوز مع كبار شيفات المغرب.",
+    "image_url": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?w=600&q=80",
+    "download_url": "https://play.google.com/store/apps/details?id=com.morocco.cooking.app",
+    "recipes_count": "450+ وصفة",
+    "chefs_count": "28 شيف",
+    "rating": 4.9,
+    "badge": "الأكثر طلباً"
+  }
+]
