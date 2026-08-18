@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rec_001",
+    "title": "طاجين اللحم الفاخر بالبرقوق والمكسرات المحمصة",
+    "category_id": "traditional",
+    "category_name": "مأكولات شعبية وتراثية",
+    "is_featured": true,
+    "is_exclusive": true,
+    "image_url": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?w=800&q=80",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": "14:20",
+    "prep_time": "20 دقيقة",
+    "cook_time": "90 دقيقة",
+    "calories": 620,
+    "difficulty": "متوسط",
+    "rating": 4.9,
+    "views_count": "142K",
+    "default_servings": 4,
+    "chef": {
+      "name": "الشيف كريم الشامي",
+      "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=200&q=80"
+    },
+    "description": "أشهر أطباق الضيافة الفاخرة، يجمع بين طراوة لحم العجل والتتبيلة الملكية بالزعفران الحر وحلاوة البرقوق المعسل مع قرمشة اللوز المقلي.",
+    "ingredients": [
+      { "name": "لحم عجل أو غنم طازج", "quantity": 1000, "unit": "غرام", "is_key": true },
+      { "name": "بصل مفروم ناعم", "quantity": 2, "unit": "حبة كبيرة", "is_key": false },
+      { "name": "برقوق مجفف للتعسيل", "quantity": 250, "unit": "غرام", "is_key": true },
+      { "name": "لوز مقشر ومقلي", "quantity": 100, "unit": "غرام", "is_key": false },
+      { "name": "زعفران حر أصلي", "quantity": 1, "unit": "ملعقة صغيرة", "is_key": true },
+      { "name": "زيت زيتون بكر", "quantity": 4, "unit": "ملاعق كبيرة", "is_key": false }
+    ],
+    "instructions": [
+      {
+        "step_number": 1,
+        "title": "تتبيل اللحم بالخلطة السحرية",
+        "detail": "نخلط الزعفران المنقوع مع التوابل وندهن قطع اللحم ونتركه يرتاح لمدة 30 دقيقة.",
+        "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&q=80",
+        "tip": "كلما طالت مدة النقع كلما كان اللحم أكثر طراوة وتشرباً للنكهات."
+      },
+      {
+        "step_number": 2,
+        "title": "الطهي على نار هادئة",
+        "detail": "نشوح اللحم مع البصل والزيت ونتركه على نار هادئة جداً لمدة ساعة ونصف.",
+        "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?w=500&q=80",
+        "tip": "السر في الطاجين الفاخر هو الطهي البطيء دون زيادة كميات الماء."
+      }
+    ],
+    "secret_chef_tip": "💡 سر الشيف: أضف ملعقة زبدة طبيعية مع ملعقة عسل في آخر دقيقة لتعسيل البرقوق ليعطيه لمعاناً ملكياً ومذاقاً لا يُنسى!"
+  }
+]
