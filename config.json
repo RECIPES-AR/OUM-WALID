@@ -1,42 +1,38 @@
 {
   "app_config": {
-    "app_name": "مطبخ الشيف كريم الشامي",
+    "app_name": "مطبخ ووصفات أم وليد",
     "app_version": "1.0.0",
     "latest_version": "1.0.0",
-    "update_url": "https://play.google.com/store/apps/details?id=com.chefkitchen.app",
+    "update_url": "https://play.google.com/store/apps/details?id=com.oumwalid.recipes.app",
     "force_update": false,
-    "update_message": "يوجد إصدار جديد يحتوي على مميزات ووصفات جديدة!",
-    
+    "update_message": "يوجد إصدار جديد يحتوي على وصفات ومميزات جديدة!",
     "chef_channel": {
-      "name": "الشيف كريم الشامي",
-      "chef_title": "Master Chef & Culinary Artist 👨‍🍳",
-      "avatar_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=500&q=80",
-      "bio": "أشهى الوصفات العصرية والتقليدية بأسهل الطرق وأسرار المطاعم الفاخرة خطوة بخطوة.",
-      "subscribers_count": "1.5M+ متابع"
+      "name": "مطبخ أم وليد | Oum Walid",
+      "chef_title": "أشهر وصفات الطبخ والحلويات الاقتصادية الناجحة 👩‍🍳",
+      "avatar_url": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=500&q=80",
+      "bio": "أهلاً بكم في التطبيق الرسمي لوصفات أم وليد، أشهى الأطباق والحلويات والمخبوزات الاقتصادية والناجحة خطوة بخطوة.",
+      "subscribers_count": "11.5M+ متابع"
     }
   },
-
   "monetization": {
     "ads_enabled": true,
-    "test_mode": false,
+    "test_mode": true,
     "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "show_interstitial_every_clicks": 6,
     "reward_unlock_chef_secret": true,
-    "advertise_whatsapp": "+966500000000",
-    "advertise_email": "ads@chefkitchen.app",
-    
+    "advertise_whatsapp": "+213500000000",
+    "advertise_email": "contact@oumwalidrecipes.com",
     "native_sponsor": {
       "is_active": true,
-      "title": "طقم أواني الطهي الفاخرة غير اللاصقة 🍳",
-      "subtitle": "خصم حصري 30% لمتابعي الشيف بكود: CHEF30",
+      "title": "طقم قوالب وأواني الحلويات والطهي غير اللاصقة 🍳",
+      "subtitle": "خصم خاص 30% لمتابعي وصفات أم وليد بكود: OUM30",
       "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&q=80",
-      "action_url": "https://bit.ly/your-sponsor-link",
+      "action_url": "https://bit.ly/oum-walid-sponsor",
       "action_text": "تسوق العرض الآن 🛍️"
     }
   },
-
   "notifications": {
     "lunch_enabled": true,
     "dinner_enabled": true,
