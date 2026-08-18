@@ -1,0 +1,46 @@
+{
+  "app_config": {
+    "app_name": "مطبخ الشيف كريم الشامي",
+    "app_version": "1.0.0",
+    "latest_version": "1.0.0",
+    "update_url": "https://play.google.com/store/apps/details?id=com.chefkitchen.app",
+    "force_update": false,
+    "update_message": "يوجد إصدار جديد يحتوي على مميزات ووصفات جديدة!",
+    
+    "chef_channel": {
+      "name": "الشيف كريم الشامي",
+      "chef_title": "Master Chef & Culinary Artist 👨‍🍳",
+      "avatar_url": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=500&q=80",
+      "bio": "أشهى الوصفات العصرية والتقليدية بأسهل الطرق وأسرار المطاعم الفاخرة خطوة بخطوة.",
+      "subscribers_count": "1.5M+ متابع"
+    }
+  },
+
+  "monetization": {
+    "ads_enabled": true,
+    "test_mode": false,
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "show_interstitial_every_clicks": 6,
+    "reward_unlock_chef_secret": true,
+    "advertise_whatsapp": "+966500000000",
+    "advertise_email": "ads@chefkitchen.app",
+    
+    "native_sponsor": {
+      "is_active": true,
+      "title": "طقم أواني الطهي الفاخرة غير اللاصقة 🍳",
+      "subtitle": "خصم حصري 30% لمتابعي الشيف بكود: CHEF30",
+      "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&q=80",
+      "action_url": "https://bit.ly/your-sponsor-link",
+      "action_text": "تسوق العرض الآن 🛍️"
+    }
+  },
+
+  "notifications": {
+    "lunch_enabled": true,
+    "dinner_enabled": true,
+    "lunch_time": "12:30",
+    "dinner_time": "19:30"
+  }
+}
