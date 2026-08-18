@@ -1,7 +1,7 @@
 [
   {
     "id": "algeria_independence",
-    "is_active": true,
+    "is_active": false,
     "target_countries": ["DZ"],
     "event_name": "عيد الاستقلال الجزائري 🇩🇿",
     "greeting_banner": "🇩🇿 بمناسبة عيد الاستقلال الجزائري | أشهى الأطباق والحلويات التراثية الأصيلة",
@@ -244,7 +244,7 @@
   },
   {
     "id": "eid_fitr_all",
-    "is_active": false,
+    "is_active": true,
     "target_countries": ["ALL"],
     "event_name": "عيد الفطر السعيد 🍬",
     "greeting_banner": "🎉 تقبل الله منا ومنكم | أشهى حلويات العيد الاقتصادية والفاخرة",
