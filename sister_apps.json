@@ -12,5 +12,19 @@
     "chefs_count": "28 شيف",
     "rating": 4.9,
     "badge": "الأكثر طلباً"
+  },
+  {
+    "id": "app_saudi",
+    "country_name": "المملكة العربية السعودية والخليج",
+    "flag_emoji": "🇸🇦",
+    "app_title": "المطبخ الخليجي الملكي",
+    "chef_title": "أشهر طهاة الكبسة والمندي والمأكولات الشعبية",
+    "description": "تطبيق شامل لأشهى المأكولات السعودية والخليجية: كبسة الحاشي والدجاج، المندي، المظبي، الهريس، الجريش، والمشروبات الرمضانية.",
+    "image_url": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&q=80",
+    "download_url": "https://play.google.com/store/apps/details?id=com.saudi.gulf.recipes",
+    "recipes_count": "380+ وصفة",
+    "chefs_count": "22 شيف",
+    "rating": 4.9,
+    "badge": "مميز"
   }
 ]
