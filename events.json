@@ -1,0 +1,281 @@
+[
+  {
+    "id": "algeria_independence",
+    "is_active": true,
+    "target_countries": ["DZ"],
+    "event_name": "عيد الاستقلال الجزائري 🇩🇿",
+    "greeting_banner": "🇩🇿 بمناسبة عيد الاستقلال الجزائري | أشهى الأطباق والحلويات التراثية الأصيلة",
+    "primary_color": "#008751",
+    "app_bar_emoji": "🇩🇿"
+  },
+  {
+    "id": "algeria_revolution",
+    "is_active": false,
+    "target_countries": ["DZ"],
+    "event_name": "ذكرى ثورة أول نوفمبر المجيدة 🇩🇿",
+    "greeting_banner": "🇩🇿 المجد والخلود لشهدائنا الأبرار | أشهى الأكلات الشعبية الجزائرية",
+    "primary_color": "#008751",
+    "app_bar_emoji": "🇩🇿"
+  },
+  {
+    "id": "saudi_national_day",
+    "is_active": false,
+    "target_countries": ["SA", "KSA"],
+    "event_name": "اليوم الوطني السعودي 🇸🇦",
+    "greeting_banner": "🇸🇦 نحلم ونحقق | بمناسبة اليوم الوطني نهنئ أهلنا في المملكة بأشهى المأكولات الملكية",
+    "primary_color": "#006C35",
+    "app_bar_emoji": "🇸🇦"
+  },
+  {
+    "id": "saudi_founding_day",
+    "is_active": false,
+    "target_countries": ["SA", "KSA"],
+    "event_name": "يوم التأسيس السعودي 🇸🇦",
+    "greeting_banner": "🇸🇦 يوم بدينا | احتفالاً بيوم التأسيس استمتع بألذ الوصفات السعودية التراثية",
+    "primary_color": "#006C35",
+    "app_bar_emoji": "🇸🇦"
+  },
+  {
+    "id": "egypt_october",
+    "is_active": false,
+    "target_countries": ["EG"],
+    "event_name": "انتصارات أكتوبر المجيدة 🇪🇬",
+    "greeting_banner": "🇪🇬 كل عام ومصر بخير | أشهى الوصفات والمأكولات المصرية الأصيلة",
+    "primary_color": "#C09300",
+    "app_bar_emoji": "🇪🇬"
+  },
+  {
+    "id": "egypt_revolution",
+    "is_active": false,
+    "target_countries": ["EG"],
+    "event_name": "ثورة 23 يوليو 🇪🇬",
+    "greeting_banner": "🇪🇬 تهانينا الحارة لشعب مصر العظيم | أشهى الأطباق المصرية",
+    "primary_color": "#C09300",
+    "app_bar_emoji": "🇪🇬"
+  },
+  {
+    "id": "morocco_throne",
+    "is_active": false,
+    "target_countries": ["MA"],
+    "event_name": "عيد العرش المغربي 🇲🇦",
+    "greeting_banner": "🇲🇦 تهانينا الحارة للمملكة المغربية | أشهى الطواجن والحلويات الملكية",
+    "primary_color": "#C1272D",
+    "app_bar_emoji": "🇲🇦"
+  },
+  {
+    "id": "morocco_independence",
+    "is_active": false,
+    "target_countries": ["MA"],
+    "event_name": "عيد الاستقلال المغربي 🇲🇦",
+    "greeting_banner": "🇲🇦 عيد استقلال مجيد للمغرب الحبيب | مائدة مغربية أصيلة",
+    "primary_color": "#C1272D",
+    "app_bar_emoji": "🇲🇦"
+  },
+  {
+    "id": "uae_national_day",
+    "is_active": false,
+    "target_countries": ["AE"],
+    "event_name": "عيد الاتحاد الوطني الإماراتي 🇦🇪",
+    "greeting_banner": "🇦🇪 دام أمانك وعاش اتحادك يا إمارات | أشهى المأكولات الإماراتية والخليجية",
+    "primary_color": "#00732F",
+    "app_bar_emoji": "🇦🇪"
+  },
+  {
+    "id": "kuwait_national_day",
+    "is_active": false,
+    "target_countries": ["KW"],
+    "event_name": "العيد الوطني وعيد التحرير الكويتي 🇰🇼",
+    "greeting_banner": "🇰🇼 عيدي يا كويت يا أحلى بلد | أشهى أطباق المجبوس والمأكولات الكويتية",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇰🇼"
+  },
+  {
+    "id": "qatar_national_day",
+    "is_active": false,
+    "target_countries": ["QA"],
+    "event_name": "اليوم الوطني لدولة قطر 🇶🇦",
+    "greeting_banner": "🇶🇦 مطوعين الصعايب | نهنئ أهلنا في قطر بألذ الولائم والمأكولات الفاخرة",
+    "primary_color": "#8D1B3D",
+    "app_bar_emoji": "🇶🇦"
+  },
+  {
+    "id": "oman_national_day",
+    "is_active": false,
+    "target_countries": ["OM"],
+    "event_name": "العيد الوطني لسلطنة عُمان 🇴🇲",
+    "greeting_banner": "🇴🇲 كل عام وسلطنة عُمان في مجد ونماء | أشهى الحلوى العُمانية والمأكولات",
+    "primary_color": "#DB161B",
+    "app_bar_emoji": "🇴🇲"
+  },
+  {
+    "id": "bahrain_national_day",
+    "is_active": false,
+    "target_countries": ["BH"],
+    "event_name": "العيد الوطني لمملكة البحرين 🇧🇭",
+    "greeting_banner": "🇧🇭 دامت أفراحك يا مملكة البحرين | أشهى أطباق المطبخ البحريني الأصيل",
+    "primary_color": "#CE1126",
+    "app_bar_emoji": "🇧🇭"
+  },
+  {
+    "id": "tunisia_independence",
+    "is_active": false,
+    "target_countries": ["TN"],
+    "event_name": "عيد الاستقلال التونسي 🇹🇳",
+    "greeting_banner": "🇹🇳 تونس الخضراء في القلب | أشهى أطباق الكسكسي والطواجن التونسية الحارة",
+    "primary_color": "#E70013",
+    "app_bar_emoji": "🇹🇳"
+  },
+  {
+    "id": "iraq_national_day",
+    "is_active": false,
+    "target_countries": ["IQ"],
+    "event_name": "اليوم الوطني العراقي 🇮🇶",
+    "greeting_banner": "🇮🇶 بلاد الرافدين وحضارة التاريخ | أشهى الدولمة، المسكوف، والبرياني العراقي",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇮🇶"
+  },
+  {
+    "id": "jordan_independence",
+    "is_active": false,
+    "target_countries": ["JO"],
+    "event_name": "عيد استقلال المملكة الأردنية 🇯🇴",
+    "greeting_banner": "🇯🇴 أردن النشامى | احتفالاً بالاستقلال تذوق ألذ منسف ومأكولات أردنية",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇯🇴"
+  },
+  {
+    "id": "palestine_day",
+    "is_active": false,
+    "target_countries": ["PS"],
+    "event_name": "يوم الأرض وإعلان استقلال فلسطين 🇵🇸",
+    "greeting_banner": "🇵🇸 على هذه الأرض ما يستحق الحياة | أشهى المأكولات الفلسطينية كالمسخن والمقلوبة",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇵🇸"
+  },
+  {
+    "id": "lebanon_independence",
+    "is_active": false,
+    "target_countries": ["LB"],
+    "event_name": "عيد الاستقلال اللبناني 🇱🇧",
+    "greeting_banner": "🇱🇧 وطن الأرز والجمال | أشهى مازة ومشاوي ومأكولات لبنانية أصيلة",
+    "primary_color": "#ED1C24",
+    "app_bar_emoji": "🇱🇧"
+  },
+  {
+    "id": "syria_independence",
+    "is_active": false,
+    "target_countries": ["SY"],
+    "event_name": "عيد الجلاء السوري 🇸🇾",
+    "greeting_banner": "🇸🇾 مهد الحضارة والياسمين | أشهى الأكلات الشامية والحلويات الحلبية الفاخرة",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇸🇾"
+  },
+  {
+    "id": "libya_independence",
+    "is_active": false,
+    "target_countries": ["LY"],
+    "event_name": "عيد الاستقلال الليبي 🇱🇾",
+    "greeting_banner": "🇱🇾 دامت ليبيا عزيزة أبية | أشهى أطباق المكرونة المبكبكة والكسكسي الليبي",
+    "primary_color": "#007A3D",
+    "app_bar_emoji": "🇱🇾"
+  },
+  {
+    "id": "sudan_independence",
+    "is_active": false,
+    "target_countries": ["SD"],
+    "event_name": "عيد الاستقلال السوداني 🇸🇩",
+    "greeting_banner": "🇸🇩 السودان الحبيب بلد الخير والنيل | أشهى الأطباق السودانية الشعبية",
+    "primary_color": "#007229",
+    "app_bar_emoji": "🇸🇩"
+  },
+  {
+    "id": "yemen_national_day",
+    "is_active": false,
+    "target_countries": ["YE"],
+    "event_name": "العيد الوطني للجمهورية اليمنية 🇾🇪",
+    "greeting_banner": "🇾🇪 يمن العروبة والأصالة | أشهى أطباق المندي، السلتة، والفحسة اليمنية",
+    "primary_color": "#CE1126",
+    "app_bar_emoji": "🇾🇪"
+  },
+  {
+    "id": "mauritania_independence",
+    "is_active": false,
+    "target_countries": ["MR"],
+    "event_name": "عيد الاستقلال الموريتاني 🇲🇷",
+    "greeting_banner": "🇲🇷 تهانينا لبلاد شنقيط والموريتانيين الأحرار | أشهى الأطباق الموريتانية",
+    "primary_color": "#00A950",
+    "app_bar_emoji": "🇲🇷"
+  },
+  {
+    "id": "somalia_independence",
+    "is_active": false,
+    "target_countries": ["SO"],
+    "event_name": "عيد استقلال الصومال 🇸🇴",
+    "greeting_banner": "🇸🇴 كل عام والصومال وشعبه بخير ونماء | أشهى المأكولات التراثية",
+    "primary_color": "#4189DD",
+    "app_bar_emoji": "🇸🇴"
+  },
+  {
+    "id": "djibouti_independence",
+    "is_active": false,
+    "target_countries": ["DJ"],
+    "event_name": "عيد استقلال جمهورية جيبوتي 🇩🇯",
+    "greeting_banner": "🇩🇯 أطيب التهاني لشعب جيبوتي الشقيق | أشهى الأطباق والمأكولات",
+    "primary_color": "#12AD2B",
+    "app_bar_emoji": "🇩🇯"
+  },
+  {
+    "id": "comoros_independence",
+    "is_active": false,
+    "target_countries": ["KM"],
+    "event_name": "عيد استقلال جزر القمر 🇰🇲",
+    "greeting_banner": "🇰🇲 نهنئ أهلنا في جزر القمر بأطيب التهاني | مأكولات بحرية وتراثية مميزة",
+    "primary_color": "#3A7D44",
+    "app_bar_emoji": "🇰🇲"
+  },
+  {
+    "id": "ramadan_all",
+    "is_active": false,
+    "target_countries": ["ALL"],
+    "event_name": "شهر رمضان المبارك 🌙",
+    "greeting_banner": "🌙 رمضان مبارك كريم | أشهى وصفات الإفطار، الشوربات، والسحور والحلويات الرمضانية",
+    "primary_color": "#D4AF37",
+    "app_bar_emoji": "🌙"
+  },
+  {
+    "id": "eid_fitr_all",
+    "is_active": false,
+    "target_countries": ["ALL"],
+    "event_name": "عيد الفطر السعيد 🍬",
+    "greeting_banner": "🎉 تقبل الله منا ومنكم | أشهى حلويات العيد الاقتصادية والفاخرة",
+    "primary_color": "#E91E63",
+    "app_bar_emoji": "🍬"
+  },
+  {
+    "id": "eid_adha_all",
+    "is_active": false,
+    "target_countries": ["ALL"],
+    "event_name": "عيد الأضحى المبارك 🐑",
+    "greeting_banner": "🐑 عيد أضحى مبارك | وصفات طهي وشواء اللحم والمأكولات الشعبية الملكية",
+    "primary_color": "#00897B",
+    "app_bar_emoji": "🐑"
+  },
+  {
+    "id": "mawlid_all",
+    "is_active": false,
+    "target_countries": ["ALL"],
+    "event_name": "ذكرى المولد النبوي الشريف 🕌",
+    "greeting_banner": "🕌 صلوا على خير البرية | أشهى الحلويات والأكلات الاحتفالية بالمولد النبوي",
+    "primary_color": "#009688",
+    "app_bar_emoji": "🕌"
+  },
+  {
+    "id": "hijri_year_all",
+    "is_active": false,
+    "target_countries": ["ALL"],
+    "event_name": "رأس السنة الهجرية الجديدة 🗓️",
+    "greeting_banner": "🌟 عام هجري مبارك وسعيد | جعله الله عام خير وبركة وتألق للجميع",
+    "primary_color": "#D4AF37",
+    "app_bar_emoji": "🌟"
+  }
+]
