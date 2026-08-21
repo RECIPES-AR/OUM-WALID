@@ -1,9 +1,9 @@
 {
   "id": "rec_00001",
-  "title": "بربوشة بطاطاس ودجاج كريمي بالجبن المبشور",
-  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  "cook_time": "25 دقيقة",
-  "default_servings": 4,
+  "title": "شهيوات ام وليد موسكوتشو خفيف",
+  "video_url": "https://www.youtube.com/watch?v=dgVeftj3zaA&t=14s",
+  "cook_time": "40 دقيقة",
+  "default_servings": 5,
   "description": "ألذ وأسرع غراتان للعشاء بحشوة صدر الدجاج المتبل مع البطاطا المقلية وصلصة البيشاميل والجبن الذائب المحمر في الفرن.",
   "ingredients": [
     { "name": "بطاطا مقطعة مكعبات ومقلية", "quantity": 4, "unit": "حبات كبيرة", "is_key": true },
